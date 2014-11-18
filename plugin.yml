@@ -1,0 +1,5 @@
+name: AntiPortalTrap
+main: me.becja10.antiPortalTrap.AntiPortalTrap
+version: 1.0
+author: 10becja
+description: Prevents players from becoming trapped in a nether portal. Requires a /spawn command.
