@@ -1,4 +1,2 @@
-AntiPortalTrap
+[AntiPortalTrap](https://github.com/10becja/MinecraftPlugins/tree/master/AntiPortalTrap)
 ==============
-
-A simple plugin that prevents players from being trapped in nether portals
